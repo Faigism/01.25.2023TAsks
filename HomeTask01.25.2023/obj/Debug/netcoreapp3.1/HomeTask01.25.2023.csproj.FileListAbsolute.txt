@@ -1,0 +1,14 @@
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\bin\Debug\netcoreapp3.1\HomeTask01.25.2023.exe
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\bin\Debug\netcoreapp3.1\HomeTask01.25.2023.deps.json
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\bin\Debug\netcoreapp3.1\HomeTask01.25.2023.runtimeconfig.json
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\bin\Debug\netcoreapp3.1\HomeTask01.25.2023.runtimeconfig.dev.json
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\bin\Debug\netcoreapp3.1\HomeTask01.25.2023.dll
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\bin\Debug\netcoreapp3.1\HomeTask01.25.2023.pdb
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\obj\Debug\netcoreapp3.1\HomeTask01.25.2023.csproj.AssemblyReference.cache
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\obj\Debug\netcoreapp3.1\HomeTask01.25.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\obj\Debug\netcoreapp3.1\HomeTask01.25.2023.AssemblyInfoInputs.cache
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\obj\Debug\netcoreapp3.1\HomeTask01.25.2023.AssemblyInfo.cs
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\obj\Debug\netcoreapp3.1\HomeTask01.25.2023.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\obj\Debug\netcoreapp3.1\HomeTask01.25.2023.dll
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\obj\Debug\netcoreapp3.1\HomeTask01.25.2023.pdb
+C:\Users\faiqi\source\repos\HomeTask01.25.2023\HomeTask01.25.2023\obj\Debug\netcoreapp3.1\HomeTask01.25.2023.genruntimeconfig.cache
